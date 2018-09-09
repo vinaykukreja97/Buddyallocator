@@ -1,0 +1,5 @@
+http://brokenthorn.com/Resources/OSDev26.html
+https://en.wikipedia.org/wiki/Buddy_memory_allocation
+https://stackoverflow.com/questions/6449935/increment-void-pointer-by-one-byte-by-two
+http://homepage.divms.uiowa.edu/~jones/syssoft/fall00/notes/14alloc.html
+
